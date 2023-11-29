@@ -99,15 +99,15 @@ content:
           Brain bitamin retail company
         description: | # this will include new lines to allow paragraphs
           - Customer Data Analysis/Visualization
-          - Managing Database with python pandas
-          - Process Automization : blog automization / Customer consultation automation
+          - Preprocess company's data with pandas and data crawling methods
+          - Process Automization(Blogging automization, Customer consultation automation)
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: KNU
         sub_title: BS Artificial Intelligence
-        caption: Date Range (eg. 2017 - 2023)
+        caption: 2017 - 2023
         quote: >
           Departement of Electrical engineering 
         description: | # this will include new lines to allow paragraphs
