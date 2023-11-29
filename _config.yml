@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Minse Ha
-title: AI engineer
+title: AI engineer / Senior - Kyungpook National University / VIS Lab
 email: haminse@gmail.com
 # email_title: Email (Email title override)
 phone: 010-3712-8575
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  haminse
+github_username: haminse
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   Currently based in the Vision Intelligence Lab in Korea, I thrive on leveraging data and AI to foster effective communication and drive innovation 
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
   in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
-  and <mark>JS/HTML/CSS</mark> [links](https://minse-web-dev-total.netlify.app/)
+  and <mark>JS/HTML/CSS</mark> [front projects](https://minse-web-dev-total.netlify.app/)
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -71,49 +71,50 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: GoTogether - AI voice route guidance service for the elderly
+        link: https://drive.google.com/file/d/1i55jWuRN0tI_r2pZVCLvDDT3Wq34t1tA/view?usp=sharing
+        link_text: Slides
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/haminse/GoTogether
         quote: >
-          Short overview of the project (optional)
+          Implement AI voice route guidance service for the elderly to solve social problem at ICT conference in Daegu, Korea
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          For the elderly and transportation vulnerable who lack digital literacy, 
+          we have developed a service where an artificial intelligence voice bot guides the journey to 
+          the destination over the phone. Chat GPT, Google STT API, TTS API, google map api, and weather api were integrated, 
+          and the conversation flow was designed considering user experience.
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: Data Analysis Internship in Healthy Like
         sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        caption: Oct 2022 - Aug 2023
+        link: http://hlike.asadesign.kr/
         quote: >
-          Short description of the company (optional)
+          Brain bitamin retail company
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Customer Data Analysis
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: KNU
+        sub_title: BS Artificial Intelligence
+        caption: Date Range (eg. 2017 - 2023)
         quote: >
-          Short institution or course description (optional)
+          Departement of Electrical engineering 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Deep learning, Data structure & algorithms, Pattern Recognization, AI Programming, Linear Algebra/Statistic 
+  - title: AWARDS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - Received the 1st prize at the ICT Intellectual Property Association College Student Entrepreneurship Hackathon
+      - Received the 2nd prize in the brain aneurysm screening artificial intelligence competition hosted by Pusan National University(K-ium)
+      - Received the 3rd prize in Daegu City Public Problem Solving Software Development Hackathon
+      - Recieved the 3rd prize in KOVA Venture Business Association Capstone Design Contest
 
 # Footer
 footer_show_references: true
