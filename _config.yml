@@ -55,8 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Minse Ha, an AI engineer specializing in computer vision, with a focus on object detection, segmentation, and multi-modal applications. 
   Currently based in the Vision Intelligence Lab in Korea, I thrive on leveraging data and AI to foster effective communication and drive innovation 
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
-  in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Pandas</mark> <mark>JS/HTML/CSS</mark>
-  # [links](http://foobar.com)
+  in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
+  and <mark>JS/HTML/CSS</mark>
+  
+  [links](http://foobar.com)
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
