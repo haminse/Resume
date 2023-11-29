@@ -48,6 +48,14 @@ linkedin_username: haminse
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
+
+  # for in about contents
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
@@ -57,12 +65,6 @@ about_content: | # this will include new lines to allow paragraphs
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
   in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
   and <mark>JS/HTML/CSS</mark> [front projects](https://minse-web-dev-total.netlify.app/)
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
