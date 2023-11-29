@@ -73,7 +73,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: GoTogether - AI voice route guidance service for the elderly
+        title: AI voice route guidance service for the elderly
         link: https://drive.google.com/file/d/1i55jWuRN0tI_r2pZVCLvDDT3Wq34t1tA/view?usp=sharing
         link_text: Slides
         additional_links:
@@ -81,7 +81,7 @@ content:
             icon: fab fa-github
             url: https://github.com/haminse/GoTogether
         quote: >
-          Implement AI voice route guidance service for the elderly to solve social problem at ICT conference in Daegu, Korea
+          Implement AI voice route guidance service for the elderly to solve social problem
         description: | # this will include new lines to allow paragraphs
           For the elderly and transportation vulnerable who lack digital literacy, 
           we have developed a service where an artificial intelligence voice bot guides the journey to 
@@ -91,14 +91,15 @@ content:
     layout: list
     content:
       - layout: right
-        title: Data Analysis Internship in Healthy Like
-        sub_title: Job title
+        title: Internship
+        sub_title: Data Analysis intern
         caption: Oct 2022 - Aug 2023
         link: http://hlike.asadesign.kr/
         quote: >
           Brain bitamin retail company
         description: | # this will include new lines to allow paragraphs
-          Customer Data Analysis
+          - Customer Data Analysis/Visualization to support Decisons
+          - Managing Database with python pandas
   - title: Education
     layout: list
     content:
