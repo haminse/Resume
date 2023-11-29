@@ -115,10 +115,10 @@ content:
   - title: AWARDS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Received the 1st prize at the ICT Intellectual Property Association College Student Entrepreneurship Hackathon
-      - Received the 2nd prize in the brain aneurysm screening artificial intelligence competition hosted by Pusan National University(K-ium)
-      - Received the 3rd prize in Daegu City Public Problem Solving Software Development Hackathon
-      - Recieved the 3rd prize in KOVA Venture Business Association Capstone Design Contest
+      - Received the <b>1st</b> prize at the ICT Intellectual Property Association College Student Entrepreneurship Hackathon
+      - Received the <b>2nd</b> prize in the brain aneurysm screening artificial intelligence competition hosted by K-ium
+      - Received the <b>3rd</b> prize in Daegu City Public Problem Solving Software Development Hackathon
+      - Recieved the <b>3rd</b> prize in KOVA Venture Business Association Capstone Design Contest
 
 # Footer
 footer_show_references: true
