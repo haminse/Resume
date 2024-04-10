@@ -126,6 +126,7 @@ content:
           - Developed the concept for an AI concierge service utilizing video diaries to analyze and respond to user needs.
           - Combined Hume API and ChatGPT-4 for sentiment analysis and recommendations, incorporating a Flask server and frontend integration for sentimental insight from user's video.
           - Worked with a team of diverse cultural backgrounds.
+
 content:
   - title: Experience
     layout: list
