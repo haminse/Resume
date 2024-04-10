@@ -171,13 +171,13 @@ content:
     layout: list
     content:
       - layout: left #top-right
-        title: M.S. of Computer Science in Vision and Intelligence Lab 
+        title: M.S. of Computer Science in VIS Lab
         sub_title: Kyungpook National University
         caption: March, 2024 - Present
         quote: >
           <b>Computer Science, department of Information Technology</b>
         description: | # this will include new lines to allow paragraphs
-          - About the Vision Intelligence Lab : [LINK](https://sites.google.com/view/k-vislab/home?authuser=0)
+          - About the VIS Lab (Vision & Intelligence System Lab): [LINK](https://sites.google.com/view/k-vislab/home?authuser=0)
           - Developing action recognition dataset and conducting algorithm research to enhance surveillance robot recognition performance.
           - Researching multimodal algorithms based on camera & sensor fusion technology for rehabilitation exercise assistance.
 
