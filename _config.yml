@@ -85,7 +85,9 @@ content:
         quote: >
           Implement AI voice route guidance service for the elderly to solve social problem
         description: | # this will include new lines to allow paragraphs
-          - Lead a project to develop an AI voice route guidance service for the elderly and transportation-vulnerable, enhancing their travel independence. Integrating Chat GPT, Google's STT and TTS APIs, Google Maps, and Weather APIs, we created a seamless journey-guidance system. The project emphasized user-friendly design, significantly aiding users with limited digital literacy.
+          - Lead a project to develop an AI voice route guidance service for the elderly and transportation-vulnerable, enhancing their travel independence. 
+          - Integrated Chat GPT, Google's STT and TTS APIs, Google Maps, and Weather APIs.
+          - Created elderly-friendly design, significantly aiding users with limited digital literacy.
           - Got the grand prize[1st] in 2023 Korea association of Information Systems Fall Conference College Student Idea Contest.
       
       - layout: left
@@ -128,20 +130,33 @@ content:
     content:
       - layout: left
         title: Internship
-        sub_title: Data Analysis intern in Daegu, Korea
+        sub_title: Data Analysis intern in HealthyLike, Daegu, Korea
         caption: Oct 2022 - Aug 2023
-        link: https://aminss.tistory.com/45
+        link: http://hlike.asadesign.kr/
         quote: >
-          Brain bitamin retail company
+          Data analysis intern in bitamin retail company
         description: | # this will include new lines to allow paragraphs
-          - Customer Data Analysis/Visualization for offline store location selection
-          - Preprocess company's data with python and data crawling methods
-          - Process Automization(Blogging automization, Customer consultation automation)
+          - Customer Data Analysis/Visualization for offline store location selection. [Project LINK](https://aminss.tistory.com/45)
+          - Preprocess company's data with python and data crawling methods.
+          - Conducted with work process Automization(Blogging automization, Customer consultation automation).
+  
+      - layout: left
+        title: internship
+        sub_title: Vision AI engineer intern in WIM, Daegu, Korea
+        caption: July 2023 - Present
+        link: https://www.wimcorp.co.kr/
+        quote: >
+          Implementation and weight reduction of vision model for automatic crop harvesting robot
+        description: | # this will include new lines to allow paragraphs
+          - Working on OS setup and maintenance with Stereolabs ZED box and camera settings.
+          - Developing a 2D crop segmentation & depth estimation model for enhancing harvesting robot recognition capabilities.
+          - Implementing a lightweight model and conducting methodological research for its application in a robotic environment.
+    
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: KNU
+      - layout: left #top-right
+        title: Kyungpook National University
         sub_title: BS Artificial Intelligence
         caption: 2017 - 2023
         quote: >
