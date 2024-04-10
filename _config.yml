@@ -156,16 +156,16 @@ content:
           - Implementing a lightweight model and conducting methodological research for its application in a robotic environment.
 
       - layout: left
-          title: Student ambassador
-          sub_title: KSA - Kyungpook national university Student Ambassador
-          caption: June 2020 - June 2021
-          link: https://www.youtube.com/watch?v=cBjoN7Qer2E
-          quote: >
-            Management and event planning for 200+ international students per semester
-          description: | # this will include new lines to allow paragraphs
-            - Planning and operating cultural exchange online seminars and events for international students every month.
-            - Develop communication skills and English skills with people from diverse cultures
-            - Despite the coronavirus pandemic, achieved more than 80% satisfaction in the exchange student satisfaction survey.
+        title: Student ambassador
+        sub_title: KSA - Kyungpook national university Student Ambassador
+        caption: June 2020 - June 2021
+        link: https://www.youtube.com/watch?v=cBjoN7Qer2E
+        quote: >
+          Management and event planning for 200+ international students per semester
+        description: | # this will include new lines to allow paragraphs
+          - Planning and operating cultural exchange online seminars and events for international students every month.
+          - Develop communication skills and English skills with people from diverse cultures
+          - Despite the coronavirus pandemic, achieved more than 80% satisfaction in the exchange student satisfaction survey.
 
   - title: Education
     layout: list
