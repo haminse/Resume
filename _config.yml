@@ -65,7 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
   in computer vision technology. I have skills with 
   
-  <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
+  <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>Docker/Conda</mark> <mark>Linux/Git</mark>
   and <mark>JS/HTML/CSS</mark>
 
 
@@ -95,7 +95,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Solution for recycling waste classification domain
+        title: Recycling waste detection 
         link: https://github.com/knu-on-plus/Recycling_Waste_Detector
         link_text: Supplementary page
         additional_links:
@@ -106,7 +106,7 @@ content:
           <b>Built AI model for detecting recycled waste and presents solutions to resolve data shifting problems</b>
         description: | # this will include new lines to allow paragraphs
           - With the goal of automating waste sorting, developed a real-time recycling waste detection model using YOLOv8. 
-          - Improved detection model F1score 6% by resolving data imbalance through the Segmented-Crop&Paste method using SAM (Segment Anything Model, Meta). 
+          - Improved detection model F1score 6% by resolving data imbalance problem through the Segmented-Crop&Paste method using SAM (Segment Anything Model, Meta). 
           - Cooperate with [WIM](https://www.wimcorp.co.kr/), an integrated solutions company in the field of intelligent control as an intern.
           - Won the grand prize[1st] at the Industry-Academia Cooperation Project Competition.
 
@@ -172,17 +172,30 @@ content:
     content:
       - layout: left #top-right
         title: Kyungpook National University
-        sub_title: M.S. Computer Science
+        sub_title: M.S. of Computer Science in [Vision and Intelligence Lab](https://sites.google.com/view/k-vislab/home?authuser=0)
         caption: 2024 - Present
         quote: >
-          <b>Vision and Intelligence LAB, Computer Science, department of Information Technology</b>
+          <b>Computer Science, department of Information Technology</b>
         description: | # this will include new lines to allow paragraphs
           - Developing action recognition dataset and conducting algorithm research to enhance surveillance robot recognition performance.
           - Researching multimodal algorithms based on camera & sensor fusion technology for rehabilitation exercise assistance.
       
       - layout: left #top-right
+        title: San Jose State University
+        sub_title: B.S. Computer Science, Artificial intelligence
+        caption: July, 2022 - June, 2023
+        quote: >
+          <b>Exchange student in SJSU</b>
+        description: | # this will include new lines to allow paragraphs
+          - Topics in machine learning, Deep learning, Python data analysis, Data visualization, Server-side web programming, UI/UX design
+          - Joined the [ML@SJSU](https://mlatsjsu.com/) club and led the Photo Retouching Service with Style Transfer Model project. [LINK](https://drive.google.com/drive/folders/1QMG4kxbS3Z_-MgqSotgxtgiut-3wyZ-i)
+          - Took a part in LikeLion-SJSU web development club and conducted with various web application development. [LINK](https://minse-web-dev-total.netlify.app/)
+          - Conducted research about bay area house price prediction. [LINK](https://drive.google.com/file/d/1nMyYv7we95KCEWHErowyK0sqlBG6JZ9y/view)
+          - Participated in Cal Hackhathon hosted by Berkely university with international teammates [LINK](https://github.com/haminse/Howdinn)
+
+      - layout: left #top-right
         title: Kyungpook National University
-        sub_title: B.S. Artificial Intelligence
+        sub_title: B.S. of Artificial Intelligence
         caption: 2017 - 2023
         quote: >
           <b>Departement of Electrical engineering</b>
