@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Minse Ha
-title: Vision AI developer / Senior - Kyungpook National University / VIS Lab
+title: Vision AI developer / M.S. Student - Kyungpook National University / VIS Lab
 email: haminse@gmail.com
 # email_title: Email (Email title override)
 phone: 010-3712-8575
@@ -60,7 +60,7 @@ linkedin_username: haminse
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Minse Ha, an AI engineer specializing in computer vision, with a focus on object detection, segmentation, and multi-modal applications. 
+  Hello! I'm Minse Ha, an AI developer specializing in computer vision, with a focus on object detection, segmentation, and multi-modal applications. 
   Currently based in the Vision Intelligence Lab in Korea, I thrive on leveraging data and AI to foster effective communication and drive innovation 
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
   in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
@@ -86,8 +86,8 @@ content:
           Implement AI voice route guidance service for the elderly to solve social problem
         description: | # this will include new lines to allow paragraphs
           - Lead a project to develop an AI voice route guidance service for the elderly and transportation-vulnerable, enhancing their travel independence. Integrating Chat GPT, Google's STT and TTS APIs, Google Maps, and Weather APIs, we created a seamless journey-guidance system. The project emphasized user-friendly design, significantly aiding users with limited digital literacy.
-          - Got the grand prize in 2023 Korea association of Information Systems Fall Conference College Student Idea Contest.
-    # content:
+          - Got the grand prize[1st] in 2023 Korea association of Information Systems Fall Conference College Student Idea Contest.
+      
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -99,18 +99,36 @@ content:
             icon: fab fa-github
             url: https://github.com/knu-on-plus/Data-generation-solution-for-recycling-waste-classification
         quote: >
-          Implements AI for detecting recycled waste and presents solutions to data shifting problems
+          Built AI model for detecting recycled waste and presents solutions to resolve data shifting problems
         description: | # this will include new lines to allow paragraphs
           - With the goal of automating waste sorting, developed a real-time recycling waste detection model using YOLOv8. 
           - Improved detection model F1score 6% by resolving data imbalance through the Segmented-Crop&Paste method using SAM (Segment Anything Model, Meta). 
-          - Won the grand prize at the industry-university cooperation project contest.
+          - Cooperate with [WIM](https://www.wimcorp.co.kr/), an integrated solutions company in the field of intelligent control as an intern.
+          - Won the grand prize[1st] at the industry-university cooperation project competition.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Howdinn - Video Diary web service with AI Advisor
+        link: https://drive.google.com/file/d/11510fH56YOJJbntdeQeGr_Dgc75YrsYS/view?usp=sharing
+        link_text: Slides
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/haminse/Howdinn
+        quote: >
+          Development of a video web diary service that supports AI sentiment analysis and counseling
+        description: | # this will include new lines to allow paragraphs
+          - Developed the concept for an AI concierge service utilizing video diaries to analyze and respond to user needs.
+          - Combined Hume API and ChatGPT-4 for sentiment analysis and recommendations, incorporating a Flask server and frontend integration for sentimental insight from user's video.
+          - Worked with a team of diverse cultural backgrounds.
 
   - title: Experience
     layout: list
     content:
       - layout: left
         title: Internship
-        sub_title: Data Analysis intern
+        sub_title: Data Analysis intern in Daegu, Korea
         caption: Oct 2022 - Aug 2023
         link: https://aminss.tistory.com/45
         quote: >
