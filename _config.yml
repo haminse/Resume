@@ -138,9 +138,9 @@ content:
         quote: >
           Data analysis intern in bitamin retail company
         description: | # this will include new lines to allow paragraphs
-          - Customer Data Analysis/Visualization for offline store location selection. [Project LINK](https://aminss.tistory.com/45)
+          - Customer Data Analysis/Visualization for offline store location selection.[LINK](https://aminss.tistory.com/45)
           - Preprocess company's data with python and data crawling methods.
-          - Conducted with work process Automization(Blogging automization, Customer consultation automation).
+          - Conducted with work customer consultation automation.
   
       - layout: left
         title: internship
