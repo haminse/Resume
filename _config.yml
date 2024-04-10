@@ -85,7 +85,7 @@ content:
             icon: fab fa-github
             url: https://github.com/haminse/AI-route-guidance-callcenter-4-elderly
         quote: >
-          Implement AI voice route guidance service for the elderly to solve social problem
+          <b>Implement AI voice route guidance service for the elderly to solve social problem</b>
         description: | # this will include new lines to allow paragraphs
           - Lead a project to develop an AI voice route guidance service for the elderly and transportation-vulnerable, enhancing their travel independence. 
           - Integrated Chat GPT, Google's STT and TTS APIs, Google Maps, and Weather APIs.
@@ -139,12 +139,12 @@ content:
         quote: >
           Data analysis intern in bitamin retail company
         description: | # this will include new lines to allow paragraphs
-          - Customer Data Analysis/Visualization for offline store location selection.[LINK](https://aminss.tistory.com/45)
+          - Customer Data Analysis/Visualization for offline store location selection. [LINK](https://aminss.tistory.com/45)
           - Preprocess company's data with python and data crawling methods.
           - Conducted with work customer consultation automation.
   
       - layout: left
-        title: internship
+        title: Internship
         sub_title: Vision AI engineer intern in WIM, Daegu, Korea
         caption: July 2023 - Present
         link: https://www.wimcorp.co.kr/
@@ -156,10 +156,10 @@ content:
           - Implementing a lightweight model and conducting methodological research for its application in a robotic environment.
 
       - layout: left
-        title: Student ambassador
+        title: Student Ambassador
         sub_title: KSA - Kyungpook national university Student Ambassador
         caption: June 2020 - June 2021
-        link: https://www.youtube.com/watch?v=cBjoN7Qer2E
+        link: 
         quote: >
           Management and event planning for 200+ international students per semester
         description: | # this will include new lines to allow paragraphs
