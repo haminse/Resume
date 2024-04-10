@@ -132,8 +132,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: Internship
-        sub_title: Data Analysis intern in HealthyLike, Daegu, Korea
+        title: Data Analysis intern
+        sub_title: Internship in HealthyLike, Daegu, Korea
         caption: Oct 2022 - Aug 2023
         link: http://hlike.asadesign.kr/
         quote: >
@@ -144,8 +144,8 @@ content:
           - Conducted with work customer consultation automation.
   
       - layout: left
-        title: Internship
-        sub_title: Vision AI engineer intern in WIM, Daegu, Korea
+        title: Vision AI engineer intern 
+        sub_title: Internship in WIM, Daegu, Korea
         caption: July 2023 - Present
         link: https://www.wimcorp.co.kr/
         quote: >
@@ -159,7 +159,7 @@ content:
         title: Student Ambassador
         sub_title: KSA - Kyungpook national university Student Ambassador
         caption: June 2020 - June 2021
-        link: 
+        link: https://www.youtube.com/@knuoia
         quote: >
           <b>Management and event planning for 200+ international students per semester</b>
         description: | # this will include new lines to allow paragraphs
@@ -171,32 +171,33 @@ content:
     layout: list
     content:
       - layout: left #top-right
-        title: Kyungpook National University
-        sub_title: M.S. of Computer Science in [Vision and Intelligence Lab](https://sites.google.com/view/k-vislab/home?authuser=0)
-        caption: 2024 - Present
+        title: M.S. of Computer Science in Vision and Intelligence Lab 
+        sub_title: Kyungpook National University
+        caption: March, 2024 - Present
         quote: >
           <b>Computer Science, department of Information Technology</b>
         description: | # this will include new lines to allow paragraphs
+          - About the Vision Intelligence Lab : [LINK](https://sites.google.com/view/k-vislab/home?authuser=0)
           - Developing action recognition dataset and conducting algorithm research to enhance surveillance robot recognition performance.
           - Researching multimodal algorithms based on camera & sensor fusion technology for rehabilitation exercise assistance.
-      
+
       - layout: left #top-right
-        title: San Jose State University
-        sub_title: B.S. Computer Science, Artificial intelligence
-        caption: July, 2022 - June, 2023
+        title: B.S. Computer Science, Artificial intelligence
+        sub_title: San Jose State University 
+        caption: Jul, 2022 - Jun, 2023
         quote: >
           <b>Exchange student in SJSU</b>
         description: | # this will include new lines to allow paragraphs
-          - Topics in machine learning, Deep learning, Python data analysis, Data visualization, Server-side web programming, UI/UX design
+          - Topics in machine learning, Deep learning, Python data analysis, Data visualization, Server-side web programming
           - Joined the [ML@SJSU](https://mlatsjsu.com/) club and led the Photo Retouching Service with Style Transfer Model project. [LINK](https://drive.google.com/drive/folders/1QMG4kxbS3Z_-MgqSotgxtgiut-3wyZ-i)
-          - Took a part in LikeLion-SJSU web development club and conducted with various web application development. [LINK](https://minse-web-dev-total.netlify.app/)
+          - Took a part in LikeLion-SJSU web development club and conducted with various web development. [LINK](https://minse-web-dev-total.netlify.app/)
           - Conducted research about bay area house price prediction. [LINK](https://drive.google.com/file/d/1nMyYv7we95KCEWHErowyK0sqlBG6JZ9y/view)
           - Participated in Cal Hackhathon hosted by Berkely university with international teammates [LINK](https://github.com/haminse/Howdinn)
 
       - layout: left #top-right
-        title: Kyungpook National University
-        sub_title: B.S. of Artificial Intelligence
-        caption: 2017 - 2023
+        title: B.S. of Artificial Intelligence 
+        sub_title: Kyungpook National University
+        caption: Mar, 2017 - Feb, 2024
         quote: >
           <b>Departement of Electrical engineering</b>
         description: | # this will include new lines to allow paragraphs
