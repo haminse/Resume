@@ -127,7 +127,7 @@ content:
           - Combined Hume API and ChatGPT-4 for sentiment analysis and recommendations, incorporating a Flask server and frontend integration for sentimental insight from user's video.
           - Worked with a team of diverse cultural backgrounds.
 
-content:
+# content:
   - title: Experiences
     layout: list
     content:
