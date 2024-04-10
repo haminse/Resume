@@ -63,10 +63,12 @@ about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Minse Ha, an AI developer specializing in computer vision, with a focus on object detection, segmentation, and multi-modal applications. 
   Currently based in the Vision Intelligence Lab in Korea, I thrive on leveraging data and AI to foster effective communication and drive innovation 
   in the field of artificial intelligence. Passionate about creating intelligent systems, I am dedicated to pushing the boundaries of what's possible 
-  in computer vision technology. I have skills with <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
+  in computer vision technology. I have skills with 
+  
+  <mark>Python</mark> <mark>Pytorch</mark> <mark>Tensorflow</mark> <mark>Flask</mark> <mark>MySQL</mark> <mark>Linux/Git</mark>
   and <mark>JS/HTML/CSS</mark>
 
-  You can check my web development projects here. [LINK](https://minse-web-dev-total.netlify.app/)
+  You are welcome to see my web development projects here. [LINK](https://minse-web-dev-total.netlify.app/)
 
 content:
   - title: Projects # Title for the section
@@ -88,7 +90,7 @@ content:
           - Lead a project to develop an AI voice route guidance service for the elderly and transportation-vulnerable, enhancing their travel independence. 
           - Integrated Chat GPT, Google's STT and TTS APIs, Google Maps, and Weather APIs.
           - Created elderly-friendly design, significantly aiding users with limited digital literacy.
-          - Got the grand prize[1st] in 2023 Korea association of Information Systems Fall Conference College Student Idea Contest.
+          - Got the grand prize[1st] in 2023 Korea association of Information Systems Fall Conference College Student Idea Competition.
       
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -106,7 +108,7 @@ content:
           - With the goal of automating waste sorting, developed a real-time recycling waste detection model using YOLOv8. 
           - Improved detection model F1score 6% by resolving data imbalance through the Segmented-Crop&Paste method using SAM (Segment Anything Model, Meta). 
           - Cooperate with [WIM](https://www.wimcorp.co.kr/), an integrated solutions company in the field of intelligent control as an intern.
-          - Won the grand prize[1st] at the industry-university cooperation project competition.
+          - Won the grand prize[1st] at the Industry-Academia Cooperation Project Competition.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -151,25 +153,51 @@ content:
           - Working on OS setup and maintenance with Stereolabs ZED box and camera settings.
           - Developing a 2D crop segmentation & depth estimation model for enhancing harvesting robot recognition capabilities.
           - Implementing a lightweight model and conducting methodological research for its application in a robotic environment.
-    
+
+     - layout: left
+        title: Student ambassador
+        sub_title: KSA - Kyungpook national university Student Ambassador
+        caption: June 2020 - June 2021
+        link: 
+        quote: >
+          Management and event planning for 200+ international students per semester
+        description: | # this will include new lines to allow paragraphs
+          - Planning and operating cultural exchange online seminars and events for international students every month.
+          - Develop communication skills and English skills with people from diverse cultures
+          - Despite the coronavirus pandemic, achieved more than 80% satisfaction in the exchange student satisfaction survey.
+
   - title: Education
     layout: list
     content:
       - layout: left #top-right
         title: Kyungpook National University
-        sub_title: BS Artificial Intelligence
+        sub_title: M.S. Computer Science
+        caption: 2024 - Present
+        quote: >
+          Vision and Intelligence LAB, Computer Science, department of Information Technology
+        description: | # this will include new lines to allow paragraphs
+          - Developing action recognition dataset and conducting algorithm research to enhance surveillance robot recognition performance.
+          - Researching multimodal algorithms based on camera & sensor fusion technology for rehabilitation exercise assistance.
+      
+      - layout: left #top-right
+        title: Kyungpook National University
+        sub_title: B.S. Artificial Intelligence
         caption: 2017 - 2023
         quote: >
           Departement of Electrical engineering 
         description: | # this will include new lines to allow paragraphs
-          Deep learning, Data structure & algorithms, Pattern Recognization, AI Programming, Linear Algebra/Statistic 
+          Deep learning, Data structure & algorithms, Pattern Recognization, AI Programming, Linear Algebra/Statistic
+      
+  
   - title: AWARDS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Received the <b>1st</b> prize at the ICT Intellectual Property Association College Student Entrepreneurship Hackathon
-      - Received the <b>2nd</b> prize in the brain aneurysm screening artificial intelligence competition hosted by K-ium
-      - Received the <b>3rd</b> prize in Daegu City Public Problem Solving Software Development Hackathon
-      - Recieved the <b>3rd</b> prize in KOVA Venture Business Association Capstone Design Contest
+      - Won the <b>1st</b> prize at the <b>Industry-Academia Cooperation Project Competition</b>
+      - Won the <b>1st</b> prize at the <b>2023 Korea association of Information Systems Fall Conference College Student Idea Competition</b>
+      - Won the <b>2nd</b> prize in the <b>brain aneurysm screening artificial intelligence competition hosted by K-ium</b>
+      - Won the <b>3rd</b> prize in <b>Daegu City Public Problem Solving Software Development Hackathon hosted by KNU</b>
+      - Won the <b>3rd</b> prize in <b>KOVA Venture Business Association Capstone Design competition</b>
+      - Won the <b>3rd</b> prize in <b>K-Digital Platform Living Lab Idea Contest
 
 # Footer
 footer_show_references: true
