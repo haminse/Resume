@@ -103,7 +103,7 @@ content:
             icon: fab fa-github
             url: https://github.com/knu-on-plus/Data-generation-solution-for-recycling-waste-classification
         quote: >
-          Built AI model for detecting recycled waste and presents solutions to resolve data shifting problems
+          <b>Built AI model for detecting recycled waste and presents solutions to resolve data shifting problems</b>
         description: | # this will include new lines to allow paragraphs
           - With the goal of automating waste sorting, developed a real-time recycling waste detection model using YOLOv8. 
           - Improved detection model F1score 6% by resolving data imbalance through the Segmented-Crop&Paste method using SAM (Segment Anything Model, Meta). 
@@ -121,7 +121,7 @@ content:
             icon: fab fa-github
             url: https://github.com/haminse/Howdinn
         quote: >
-          Development of a video web diary service that supports AI sentiment analysis and counseling
+          <b>Development of a video web diary service that supports AI sentiment analysis and counseling</b>
         description: | # this will include new lines to allow paragraphs
           - Developed the concept for an AI concierge service utilizing video diaries to analyze and respond to user needs.
           - Combined Hume API and ChatGPT-4 for sentiment analysis and recommendations, incorporating a Flask server and frontend integration for sentimental insight from user's video.
@@ -137,7 +137,7 @@ content:
         caption: Oct 2022 - Aug 2023
         link: http://hlike.asadesign.kr/
         quote: >
-          Data analysis intern in bitamin retail company
+          <b>Data analysis intern in bitamin retail company</b>
         description: | # this will include new lines to allow paragraphs
           - Customer Data Analysis/Visualization for offline store location selection. [LINK](https://aminss.tistory.com/45)
           - Preprocess company's data with python and data crawling methods.
@@ -149,7 +149,7 @@ content:
         caption: July 2023 - Present
         link: https://www.wimcorp.co.kr/
         quote: >
-          Implementation and weight reduction of vision model for automatic crop harvesting robot
+          <b>Implementation and weight reduction of vision model for automatic crop harvesting robot</b>
         description: | # this will include new lines to allow paragraphs
           - Working on OS setup and maintenance with Stereolabs ZED box and camera settings.
           - Developing a 2D crop segmentation & depth estimation model for enhancing harvesting robot recognition capabilities.
@@ -161,7 +161,7 @@ content:
         caption: June 2020 - June 2021
         link: 
         quote: >
-          Management and event planning for 200+ international students per semester
+          <b>Management and event planning for 200+ international students per semester</b>
         description: | # this will include new lines to allow paragraphs
           - Planning and operating cultural exchange online seminars and events for international students every month.
           - Develop communication skills and English skills with people from diverse cultures
@@ -175,7 +175,7 @@ content:
         sub_title: M.S. Computer Science
         caption: 2024 - Present
         quote: >
-          Vision and Intelligence LAB, Computer Science, department of Information Technology
+          <b>Vision and Intelligence LAB, Computer Science, department of Information Technology</b>
         description: | # this will include new lines to allow paragraphs
           - Developing action recognition dataset and conducting algorithm research to enhance surveillance robot recognition performance.
           - Researching multimodal algorithms based on camera & sensor fusion technology for rehabilitation exercise assistance.
@@ -185,7 +185,7 @@ content:
         sub_title: B.S. Artificial Intelligence
         caption: 2017 - 2023
         quote: >
-          Departement of Electrical engineering 
+          <b>Departement of Electrical engineering</b>
         description: | # this will include new lines to allow paragraphs
           Deep learning, Data structure & algorithms, Pattern Recognization, AI Programming, Linear Algebra/Statistic
       
